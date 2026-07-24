@@ -1,0 +1,14 @@
+{
+  "name": "hrm-portal-vue3-ts-v22",
+  "version": "1.0.0",
+  "description": "Human Resource Management (HRM) built with TypeScript / Vue 3 Pinia",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
